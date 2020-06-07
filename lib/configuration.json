@@ -1,0 +1,12 @@
+{
+  "configuration": {
+    "adb_addr": ["127.0.0.1", 5037],
+    "tesseract_ocr": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+    "debug": true,
+    "file_paths": {
+      "phone_configuration": "lib\\phone_configuration",
+      "default_display_image": "lib\\images\\display.png",
+      "art_of_war": "lib\\images\\games\\art_of_war"
+    }
+  }
+}
